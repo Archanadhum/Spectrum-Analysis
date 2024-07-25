@@ -6,6 +6,11 @@
 **2.** In Jupiter notebook, I utilized the pandas and matplotlib libraries to create the attached maps. These maps visually represent the operator-band-circle-wise spectrum both existing holdings and the latest purchased spectrum (highlighted in Red colour border) across various frequency bands.
 ## Tools Used:
 **Data Sources:** DOT, Paragkar.com
+
 **Programming Language:** Python
+
 **Libraries:** pandas, matplotlib
+
 **Environment:** Jupyter notebook
+
+The attached maps provide a clear and comprehensive view of the spectrum allocation, making it easier to understand the distribution and acquisition of spectrum across different operators and bands.
